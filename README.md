@@ -29,7 +29,7 @@ Enabled secure and scalable international voice traffic
 Increased average daily revenue from ~USD 1,100 to USD 4,000+
 Delivered a significant return on investment for the organization
 
-# Business Impact
+# Technologies & concept used
 IPSEC VPN (Site-to-Site)
 Sansay Session Border Controller (SBC)
 Cisco ASA Firewall
