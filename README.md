@@ -17,7 +17,7 @@ The primary challenge was bandwidth limitation, which negatively impacted call q
 Implemented codec transcoding from G.711 to G.729, significantly reducing bandwidth consumption per call while preserving acceptable voice quality.
 Additionally, QoS considerations were applied to prioritize VoIP traffic and maintain low latency, jitter, and packet loss.
 
-# Key Challenge & Solution
+# Testing & Validation
 Verified SIP signaling and RTP media flow across the IPSEC tunnel
 Conducted multiple test calls to measure voice quality
 Monitored tunnel stability, latency, jitter, and packet loss
